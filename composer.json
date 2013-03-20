@@ -3,7 +3,7 @@
 	"require": {
 		"php": ">=5.2"
 	},
-	"version": "0.3.0-dev",
+	"version": "0.3.1-dev",
 	"description": "Twitter OAUTH authentication for API 1.1",
 	"authors": [
 	{
