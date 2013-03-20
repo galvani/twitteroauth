@@ -20,7 +20,7 @@
 	}
 	],
 	"autoload" : {
-		"files": ["twitteroauth/twitterouath.php"]
+		"files": ["twitteroauth/twitteroauth.php"]
 	}
 }
 	
