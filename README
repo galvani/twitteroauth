@@ -1,4 +1,6 @@
 Abraham Williams | abraham@abrah.am | http://abrah.am | @abraham
+Modified for use with twitter api 1.1 - yet to test
+Modified for use by composer
 
 The first PHP library for working with Twitter's OAuth API.
 
