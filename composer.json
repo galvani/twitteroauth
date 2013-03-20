@@ -1,0 +1,28 @@
+{
+	"name": "galvani/twitteroauth",
+	"require": {
+		"php": ">=5.2"
+	},
+	"version": "0.3.0-dev",
+	"description": "Twitter OAUTH authentication for API 1.1",
+	"authors": [
+	{
+		"name": "Abraham Williams",
+		"email": "abraham@abrah.am",
+		"homepage": "http://abrah.am",
+		"role": "Developer"
+	},
+	{
+		"name": "Jan Kozak",
+		"email": "galvani78@gmail.com",
+		"homepage": "http://galvani.cz",
+		"role": "Developer"
+	}
+	],
+	"autoload" : {
+		"files": ["twitteroauth/twitterouath.php"]
+	}
+}
+	
+
+
